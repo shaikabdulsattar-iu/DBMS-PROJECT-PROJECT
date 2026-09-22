@@ -1,0 +1,24 @@
+Software-Management-System-DBMS/
+│
+├── sql/
+│   ├── ddl.sql
+│   ├── dml.sql
+│   └── queries.sql
+│
+├── diagrams/
+│   └── Software_Management_ER_Diagram.png
+│
+├── docs/
+│   └── Software_Management_System_Documentation.docx
+│
+├── screenshots/
+│   ├── software.png
+│   ├── developer.png
+│   ├── project.png
+│   ├── client.png
+│   ├── license.png
+│   ├── team.png
+│   ├── query1.png
+│   └── query2.png
+│
+└── README.md
