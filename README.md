@@ -113,12 +113,12 @@ The completed system provides a **centralized, organized, and reliable database*
 
 # 👥 Team Members
 
-| S.No. | Team Member            | Roll Number    |
-| ----: | ---------------------- | -------------- |
-|     1 | **SHAIK ABDUL SATTAR** | **25B11AIA91** |
-|     2 | **K NAVEEN KUMAR**     | **25B11AI611** |
-|     3 | **K HARSHA VARDHAN**   | **25B11AI578** |
-|     4 | **K SYAM KUMAR**       | **25B11AI125** |
+| S.No. | Team Member            | Roll Number    |                                                               | 
+| ----: | ---------------------- | -------------- |   -------------- --------------   --------------                        
+|     1 | **SHAIK ABDUL SATTAR** | **25B11AIA91** | Database Design, ER DiagramSQL Integration & Project Testing  | 
+|     2 | **K NAVEEN KUMAR**     | **25B11AI611** | Software & Developer Tables                                   |  
+|     3 | **K HARSHA VARDHAN**   | **25B11AI578** | Project & Client Tables                                       |  
+|     4 | **K SYAM KUMAR**       | **25B11AI125** | License & Team Tables                                         | 
 
 ---
 
